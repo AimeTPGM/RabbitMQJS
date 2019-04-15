@@ -31,9 +31,7 @@ port 5672 will be exposed to localhost:5672 for accessing RabbitMQ
 
 port 15672 will be exposed to RabbitMQ Dashboard (username: guest, password: guest)
 
-3. run receiver
-
-``` node receiver.js```
+3. run receiver ``` node receiver.js```
 
 it will show like this in console
 
@@ -41,9 +39,7 @@ it will show like this in console
 [*] Waiting for messages in hello
 ```
 
-4. run sender
-
-```node sender.js```
+4. run sender ```node sender.js```
 
 it will show like this in console
 
