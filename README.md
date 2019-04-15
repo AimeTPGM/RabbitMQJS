@@ -5,7 +5,7 @@
 * needs docker to run RabbitMQ server
 * NPM and NodeJS
 
-## installation
+## Installation
 
 ```
 # clone from github
